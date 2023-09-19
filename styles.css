@@ -65,3 +65,10 @@ line-height: normal;
     font-weight: 400;
     line-height: normal;
 }
+.control-label{
+    color: #121111;
+    font-family:'Irish Grover', cursive;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
